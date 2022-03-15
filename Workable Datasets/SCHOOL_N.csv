@@ -1,0 +1,200 @@
+Gender,Age,Popular Website,Proficiency,Medium,Location,Household Internet Facilities,Browse Time,Browsing Status,Residence,Total Internet Usage(hrs/day),Time Spent in Academic(hrs/day),Purpose of Use,Years of Internet Use,Browsing Purpose,Priority of Learning,Webinar,Internet Usage For Educational Purpose,Academic Performance,Obstacles
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,7,Education,1,Academic,Leadership Development,No,E-books or other Media files,Good,Bad Service
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,4,0,Social Media,3,Non-academic,Non-academic Learning,No,Articles or Blogs related to non-academical studies,Average,Bad Service
+Male,16,Facebook,Not at all,Mobile,Home,Not Connected,Night,Weekly,Town,5,0,Entertainment,2,Non-academic,Leadership Development,No,Notes or lectures for academical purpose,Not Satisfactory,High Price
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Morning,Daily,Town,0,6,Education,2,Non-academic,Communication Skills,No,Articles or Blogs related to academical studies,Good,Unavailability
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,5,Education,3,Academic,Non-academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Female,15,Google,Average,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,1,7,Education,3,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Good,Unavailability
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Monthly,Town,0,6,Education,4,Non-academic,Career Opportunity,No,Notes or lectures for academical purpose,Satisfactory,Bad Service
+Female,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,Entertainment,2,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Youtube,Not at all,Mobile,Cyber Cafe,Connected,Night,Monthly,Town,2,8,Education,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,0,Education,2,Academic,Communication Skills,No,Notes or lectures for academical purpose,Good,High Price
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Morning,Weekly,Town,0,5,Education,4,Academic,Career Opportunity,No,Courses Available on specific topics,Satisfactory,Bad Service
+Male,15,Google,Average,Laptop and Mobile,Home,Connected,Night,Daily,Town,0,6,Education,4,Non-academic,Academic Learning,No,Articles or Blogs related to non-academical studies,Satisfactory,High Price
+Female,15,Google,Average,Desktop,School,Not Connected,Night,Weekly,Village,2,6,Education,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Satisfactory,Unavailability
+Male,15,Google,Average,Laptop and Mobile,Home,Not Connected,Night,Daily,Town,3,8,Education,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Unavailability
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,6,Education,1,Non-academic,Academic Learning,No,Articles or Blogs related to non-academical studies,Good,High Price
+Female,14,Whatsapp,Average,Mobile,Home,Not Connected,Midnight,Daily,Town,4,2,Online Shopping,3,Non-academic,Leadership Development,No,Courses Available on specific topics,Average,Bad Service
+Female,14,Google,Average,Mobile,Home,Connected,Night,Weekly,Town,2,5,Education,1,Academic,Non-academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,16,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,7,2,Entertainment,3,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Average,Unavailability
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Monthly,Town,2,5,Education,1,Non-academic,Leadership Development,No,Courses Available on specific topics,Good,Bad Service
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,6,2,Entertainment,4,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Average,High Price
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,1,8,Education,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Whatsapp,Average,Mobile,Home,Not Connected,Night,Daily,Town,2,5,Education,2,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,High Price
+Male,15,Youtube,Very Good,Laptop and Mobile,Home,Not Connected,Night,Weekly,Village,2,6,Education,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Cyber Cafe,Not Connected,Night,Weekly,Town,0,8,Education,1,Academic,Leadership Development,No,Courses Available on specific topics,Good,Bad Service
+Female,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,Entertainment,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Google,Average,Mobile,Home,Not Connected,Night,Weekly,Town,2,7,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,2,Online Shopping,2,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,2,Entertainment,1,Non-academic,Communication Skills,No,Articles or Blogs related to academical studies,Not Satisfactory,Unavailability
+Male,15,Youtube,Very Good,Mobile,Cyber Cafe,Not Connected,Night,Daily,Town,2,6,Education,1,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,2,Entertainment,2,Academic,Leadership Development,No,E-books or other Media files,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,7,0,Online Shopping,4,Academic,Non-academic Learning,No,Courses Available on specific topics,Average,Unavailability
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,8,News,2,Academic,Career Opportunity,No,Courses Available on specific topics,Good,High Price
+Female,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,2,Entertainment,5,Academic,Creativity and Innovative Skills,No,Courses Available on specific topics,Good,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Morning,Daily,Village,3,6,News,3,Non-academic,Academic Learning,No,Articles or Blogs related to non-academical studies,Good,Unavailability
+Female,15,Google,Very Good,Mobile,Home,Not Connected,Night,Monthly,Town,0,6,Social Media,3,Academic,Career Opportunity,No,Courses Available on specific topics,Good,Bad Service
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,0,5,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,High Price
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,Online Shopping,2,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,News,3,Academic,Career Opportunity,No,Courses Available on specific topics,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,0,8,Education,1,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,15,Youtube,Very Good,Laptop and Mobile,Home,Not Connected,Night,Daily,Town,2,2,Entertainment,4,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Facebook,Very Good,Laptop and Mobile,School,Connected,Night,Daily,Town,2,5,Education,3,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,5,Education,1,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,High Price
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,0,5,Education,2,Academic,Communication Skills,No,Notes or lectures for academical purpose,Satisfactory,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,8,Education,2,Academic,Non-academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,4,5,Entertainment,1,Non-academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Satisfactory,High Price
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,6,Education,2,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,High Price
+Male,17,Youtube,Not at all,Mobile,Home,Not Connected,Night,Weekly,Remote,0,8,Online Shopping,2,Non-academic,Academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,5,Education,4,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Satisfactory,High Price
+Female,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,3,6,Education,3,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Remote,3,8,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,4,0,Entertainment,1,Academic,Non-academic Learning,No,Notes or lectures for academical purpose,Not Satisfactory,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,7,Education,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,7,Education,2,Academic,Career Opportunity,No,E-books or other Media files,Good,Bad Service
+Male,14,Facebook,Average,Mobile,Home,Not Connected,Night,Daily,Town,2,6,Education,2,Academic,Leadership Development,No,Courses Available on specific topics,Good,High Price
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,6,0,Social Media,4,Academic,Communication Skills,No,E-books or other Media files,Average,Unavailability
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,8,Online Shopping,3,Non-academic,Academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Day,Daily,Town,1,1,Online Shopping,1,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Average,High Price
+Female,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,8,Education,3,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,6,Education,1,Academic,Leadership Development,No,E-books or other Media files,Good,Bad Service
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Morning,Monthly,Village,0,8,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,Unavailability
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Morning,Weekly,Town,1,8,Education,1,Academic,Academic Learning,No,E-books or other Media files,Good,Unavailability
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,6,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,7,Education,2,Academic,Communication Skills,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,14,Facebook,Not at all,Mobile,Home,Not Connected,Night,Weekly,Town,7,2,Entertainment,1,Non-academic,Non-academic Learning,No,Notes or lectures for academical purpose,Not Satisfactory,High Price
+Male,15,Google,Average,Mobile,Cyber Cafe,Not Connected,Night,Daily,Town,2,6,Education,1,Academic,Academic Learning,No,Courses Available on specific topics,Satisfactory,Bad Service
+Male,15,Google,Very Good,Laptop and Mobile,Home,Not Connected,Night,Daily,Village,2,5,Education,1,Non-academic,Career Opportunity,No,Articles or Blogs related to non-academical studies,Good,Bad Service
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,0,7,News,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,High Price
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,7,Education,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,14,Google,Average,Mobile,Home,Not Connected,Night,Weekly,Town,3,5,Education,2,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Youtube,Very Good,Desktop,Home,Connected,Midnight,Weekly,Town,1,6,Education,3,Academic,Career Opportunity,No,E-books or other Media files,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,4,Education,2,Non-academic,Academic Learning,No,Notes or lectures for academical purpose,Satisfactory,Bad Service
+Male,16,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,0,Entertainment,1,Academic,Leadership Development,No,Notes or lectures for academical purpose,Average,Unavailability
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,5,1,Entertainment,2,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Average,Bad Service
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,0,7,Education,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Google,Very Good,Mobile,School,Not Connected,Night,Daily,Town,0,8,Education,2,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Unavailability
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,4,Entertainment,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Satisfactory,High Price
+Male,15,Facebook,Average,Mobile,School,Not Connected,Night,Weekly,Town,7,1,Social Media,3,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Average,High Price
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,6,2,Social Media,2,Academic,Academic Learning,No,Notes or lectures for academical purpose,Average,High Price
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,5,Education,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Day,Weekly,Village,1,2,Entertainment,2,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,15,Facebook,Average,Laptop and Mobile,Home,Connected,Night,Weekly,Town,2,1,Social Media,2,Academic,Academic Learning,No,E-books or other Media files,Satisfactory,High Price
+Female,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,5,Education,3,Non-academic,Academic Learning,No,Articles or Blogs related to non-academical studies,Good,High Price
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,1,1,Social Media,2,Academic,Leadership Development,No,E-books or other Media files,Good,Bad Service
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,5,Social Media,3,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Female,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,7,Entertainment,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Youtube,Average,Mobile,Home,Not Connected,Day,Daily,Town,4,1,News,3,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Average,Bad Service
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,5,Education,2,Non-academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,14,Youtube,Average,Mobile,Home,Not Connected,Day,Daily,Town,8,1,Social Media,1,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Average,Bad Service
+Female,14,Facebook,Average,Mobile,Home,Not Connected,Night,Weekly,Town,2,5,News,2,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,17,Facebook,Very Good,Laptop and Mobile,Home,Not Connected,Day,Daily,Town,6,2,Social Media,1,Non-academic,Non-academic Learning,No,Articles or Blogs related to non-academical studies,Average,High Price
+Male,15,Youtube,Average,Mobile,Home,Not Connected,Midnight,Weekly,Town,2,8,Education,3,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Good,High Price
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,2,6,Education,2,Academic,Academic Learning,No,Courses Available on specific topics,Good,High Price
+Male,14,Facebook,Not at all,Mobile,Home,Not Connected,Night,Weekly,Village,7,0,Social Media,4,Non-academic,Career Opportunity,No,Articles or Blogs related to non-academical studies,Average,High Price
+Female,14,Google,Very Good,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,3,7,Education,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,High Price
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,0,8,Education,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,High Price
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,0,News,3,Academic,Leadership Development,No,Courses Available on specific topics,Not Satisfactory,Bad Service
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,0,6,Education,2,Non-academic,Academic Learning,No,Notes or lectures for academical purpose,Satisfactory,Bad Service
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,0,5,Education,2,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Monthly,Village,7,0,Online Shopping,3,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Average,Bad Service
+Male,14,Google,Very Good,Laptop and Mobile,School,Connected,Night,Daily,Town,2,7,Education,3,Non-academic,Career Opportunity,No,E-books or other Media files,Good,Bad Service
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,7,Education,3,Academic,Non-academic Learning,No,E-books or other Media files,Good,Bad Service
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,8,1,Social Media,4,Non-academic,Academic Learning,No,Articles or Blogs related to non-academical studies,Average,Unavailability
+Male,17,Google,Not at all,Mobile,Home,Not Connected,Night,Daily,Remote,2,6,Education,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,14,Google,Average,Mobile,Home,Not Connected,Night,Daily,Village,1,8,Education,1,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Monthly,Village,7,2,Entertainment,2,Non-academic,Non-academic Learning,No,Articles or Blogs related to non-academical studies,Average,Bad Service
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,8,Education,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,17,Google,Very Good,Mobile,Home,Not Connected,Midnight,Weekly,Town,0,5,Education,3,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,5,Education,2,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,16,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,0,8,Education,1,Academic,Creativity and Innovative Skills,No,E-books or other Media files,Good,Bad Service
+Male,15,Whatsapp,Not at all,Mobile,Home,Not Connected,Night,Weekly,Town,4,0,Entertainment,3,Non-academic,Leadership Development,No,Notes or lectures for academical purpose,Not Satisfactory,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Day,Weekly,Village,1,6,Education,2,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Satisfactory,High Price
+Female,14,Youtube,Average,Mobile,Home,Connected,Night,Daily,Town,1,8,Education,3,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Day,Daily,Village,0,5,Social Media,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,15,Facebook,Average,Mobile,Home,Not Connected,Midnight,Daily,Town,0,8,Education,2,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Google,Very Good,Desktop,Home,Connected,Midnight,Weekly,Town,0,7,Social Media,3,Academic,Career Opportunity,No,Courses Available on specific topics,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,3,Education,2,Academic,Career Opportunity,No,E-books or other Media files,Average,High Price
+Female,15,Facebook,Very Good,Mobile,Cyber Cafe,Not Connected,Night,Daily,Town,1,1,Entertainment,2,Academic,Communication Skills,No,Courses Available on specific topics,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,School,Not Connected,Night,Weekly,Town,2,2,Entertainment,1,Academic,Non-academic Learning,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,14,Youtube,Average,Mobile,Home,Not Connected,Night,Daily,Town,3,8,Education,2,Academic,Academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Male,17,Google,Very Good,Laptop and Mobile,Home,Not Connected,Day,Daily,Town,7,2,Entertainment,3,Non-academic,Leadership Development,No,Articles or Blogs related to non-academical studies,Average,High Price
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Day,Weekly,Village,0,8,Online Shopping,3,Academic,Creativity and Innovative Skills,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,0,Online Shopping,3,Non-academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Average,Bad Service
+Female,14,Facebook,Not at all,Mobile,Home,Not Connected,Night,Daily,Town,8,1,Entertainment,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Not Satisfactory,High Price
+Male,15,Youtube,Average,Mobile,School,Not Connected,Night,Daily,Town,8,1,Entertainment,4,Non-academic,Leadership Development,No,Articles or Blogs related to non-academical studies,Average,High Price
+Male,14,Google,Very Good,Mobile,School,Not Connected,Night,Daily,Town,2,7,Entertainment,3,Academic,Creativity and Innovative Skills,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,8,Education,2,Non-academic,Creativity and Innovative Skills,No,Articles or Blogs related to non-academical studies,Good,Bad Service
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,8,2,Social Media,4,Non-academic,Communication Skills,No,Articles or Blogs related to academical studies,Average,High Price
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,2,1,Entertainment,2,Academic,Academic Learning,No,E-books or other Media files,Average,Bad Service
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,6,Education,2,Academic,Academic Learning,No,Courses Available on specific topics,Good,High Price
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,Education,3,Academic,Communication Skills,No,E-books or other Media files,Satisfactory,Bad Service
+Female,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,3,8,Online Shopping,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,High Price
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,5,0,Entertainment,3,Non-academic,Creativity and Innovative Skills,No,Articles or Blogs related to non-academical studies,Not Satisfactory,Bad Service
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,6,0,Online Shopping,2,Non-academic,Communication Skills,No,E-books or other Media files,Not Satisfactory,Bad Service
+Female,14,Facebook,Average,Mobile,Home,Not Connected,Night,Weekly,Town,0,6,Education,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,15,Facebook,Very Good,Desktop,Home,Not Connected,Night,Weekly,Town,0,5,Education,1,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,High Price
+Male,15,Whatsapp,Very Good,Mobile,Cyber Cafe,Not Connected,Night,Weekly,Town,0,6,Education,3,Non-academic,Academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,8,Education,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,7,Education,3,Academic,Creativity and Innovative Skills,No,E-books or other Media files,Good,High Price
+Female,15,Google,Very Good,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,3,8,News,3,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Day,Daily,Village,1,4,Education,3,Academic,Academic Learning,No,Courses Available on specific topics,Satisfactory,High Price
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,8,2,Entertainment,2,Academic,Leadership Development,No,Courses Available on specific topics,Not Satisfactory,High Price
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,5,0,News,4,Non-academic,Creativity and Innovative Skills,No,Articles or Blogs related to non-academical studies,Average,Unavailability
+Male,14,Google,Very Good,Mobile,School,Not Connected,Night,Weekly,Town,3,6,Education,3,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Google,Average,Laptop and Mobile,Home,Not Connected,Midnight,Daily,Town,8,2,Online Shopping,4,Non-academic,Non-academic Learning,No,Articles or Blogs related to non-academical studies,Average,Bad Service
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,5,Education,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,High Price
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Monthly,Town,2,8,Education,1,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Whatsapp,Average,Mobile,Home,Not Connected,Night,Weekly,Town,2,7,Education,1,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,17,Youtube,Very Good,Laptop and Mobile,Cyber Cafe,Not Connected,Night,Daily,Village,2,2,Entertainment,2,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Youtube,Average,Mobile,Home,Not Connected,Night,Daily,Town,1,8,Education,2,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,High Price
+Female,15,Whatsapp,Average,Laptop and Mobile,Home,Not Connected,Night,Daily,Town,2,6,Education,1,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Google,Not at all,Mobile,Cyber Cafe,Connected,Night,Weekly,Town,3,8,Education,3,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,6,1,Entertainment,4,Academic,Academic Learning,No,Notes or lectures for academical purpose,Average,Bad Service
+Male,15,Google,Not at all,Mobile,Home,Not Connected,Night,Daily,Town,7,2,Entertainment,1,Non-academic,Communication Skills,No,E-books or other Media files,Not Satisfactory,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Remote,2,7,Entertainment,1,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Bad Service
+Female,16,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,0,5,Education,2,Academic,Academic Learning,No,Courses Available on specific topics,Good,Bad Service
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,1,Online Shopping,2,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,7,Education,2,Non-academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,8,0,Social Media,4,Non-academic,Leadership Development,No,Courses Available on specific topics,Average,Bad Service
+Male,17,Google,Very Good,Mobile,Home,Not Connected,Midnight,Weekly,Town,0,8,News,3,Academic,Leadership Development,No,Courses Available on specific topics,Good,Unavailability
+Female,15,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,7,Education,1,Academic,Academic Learning,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,7,Education,2,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Good,High Price
+Female,14,Whatsapp,Average,Mobile,Home,Not Connected,Morning,Daily,Town,5,2,News,3,Academic,Creativity and Innovative Skills,No,Courses Available on specific topics,Average,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Village,3,5,Education,3,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,0,5,Entertainment,3,Non-academic,Career Opportunity,No,Articles or Blogs related to academical studies,Satisfactory,High Price
+Male,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,6,Education,2,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,High Price
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,3,Education,4,Academic,Career Opportunity,No,Courses Available on specific topics,Average,Bad Service
+Male,14,Google,Very Good,Desktop,Home,Connected,Midnight,Daily,Town,1,7,Education,2,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,5,1,Education,1,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Average,Bad Service
+Female,15,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,2,6,Education,2,Academic,Academic Learning,No,Courses Available on specific topics,Good,High Price
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Day,Weekly,Town,2,1,Online Shopping,1,Academic,Creativity and Innovative Skills,No,Articles or Blogs related to academical studies,Average,High Price
+Male,14,Google,Very Good,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,8,0,Education,4,Non-academic,Communication Skills,No,Notes or lectures for academical purpose,Not Satisfactory,Bad Service
+Female,14,Youtube,Average,Mobile,Home,Not Connected,Night,Monthly,Village,1,8,Education,1,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Facebook,Average,Laptop and Mobile,Home,Not Connected,Midnight,Daily,Town,6,0,News,2,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Average,Bad Service
+Female,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,8,2,Entertainment,3,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Average,Unavailability
+Male,15,Youtube,Average,Mobile,Home,Not Connected,Night,Daily,Town,7,0,Entertainment,3,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Average,High Price
+Female,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,3,News,5,Academic,Communication Skills,No,Courses Available on specific topics,Good,High Price
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,3,5,Education,2,Academic,Career Opportunity,No,Courses Available on specific topics,Good,High Price
+Male,15,Youtube,Average,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,0,5,Education,2,Academic,Academic Learning,No,E-books or other Media files,Good,Bad Service
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,3,Social Media,1,Academic,Non-academic Learning,No,Articles or Blogs related to academical studies,Average,High Price
+Male,14,Youtube,Very Good,Laptop and Mobile,Home,Not Connected,Night,Monthly,Town,7,0,Entertainment,4,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Not Satisfactory,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,7,2,Education,1,Non-academic,Non-academic Learning,No,Notes or lectures for academical purpose,Average,Bad Service
+Female,15,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,4,1,Education,3,Non-academic,Leadership Development,No,Articles or Blogs related to non-academical studies,Average,High Price
+Female,14,Whatsapp,Very Good,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,3,8,Education,1,Non-academic,Career Opportunity,No,Articles or Blogs related to non-academical studies,Good,High Price
+Female,14,Whatsapp,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,2,Social Media,2,Academic,Communication Skills,No,Articles or Blogs related to academical studies,Average,Bad Service
+Male,14,Google,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,1,4,Education,4,Academic,Communication Skills,No,Courses Available on specific topics,Satisfactory,High Price
+Male,15,Google,Very Good,Mobile,Home,Not Connected,Night,Monthly,Town,2,8,Education,2,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,1,8,Education,1,Academic,Academic Learning,No,E-books or other Media files,Good,High Price
+Male,15,Google,Very Good,Mobile,Cyber Cafe,Not Connected,Night,Weekly,Town,2,6,Education,1,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Male,17,Whatsapp,Very Good,Laptop and Mobile,Cyber Cafe,Not Connected,Night,Weekly,Village,3,7,Education,2,Academic,Career Opportunity,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,14,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,8,2,Social Media,4,Academic,Non-academic Learning,No,Notes or lectures for academical purpose,Average,Unavailability
+Male,15,Youtube,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,4,1,Education,4,Non-academic,Leadership Development,No,E-books or other Media files,Not Satisfactory,Unavailability
+Male,15,Youtube,Average,Mobile,Home,Not Connected,Night,Weekly,Town,4,1,Social Media,2,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Average,High Price
+Male,17,Google,Not at all,Mobile,Home,Not Connected,Night,Weekly,Remote,0,7,Education,2,Academic,Creativity and Innovative Skills,No,Courses Available on specific topics,Good,Bad Service
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Town,3,6,Education,3,Academic,Communication Skills,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,14,Facebook,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,4,2,News,2,Non-academic,Communication Skills,No,Articles or Blogs related to non-academical studies,Average,Bad Service
+Female,14,Google,Very Good,Mobile,Home,Not Connected,Night,Daily,Town,2,8,Entertainment,3,Academic,Academic Learning,No,Notes or lectures for academical purpose,Good,Bad Service
+Male,15,Facebook,Very Good,Mobile,Home,Not Connected,Night,Weekly,Village,1,1,Entertainment,2,Academic,Leadership Development,No,Articles or Blogs related to academical studies,Good,Bad Service
+Female,15,Youtube,Average,Laptop and Mobile,Home,Not Connected,Night,Weekly,Town,3,8,Entertainment,2,Academic,Career Opportunity,No,Notes or lectures for academical purpose,Good,Unavailability
+Male,15,Facebook,Average,Laptop and Mobile,Home,Not Connected,Night,Daily,Town,0,6,Education,2,Academic,Career Opportunity,No,Courses Available on specific topics,Good,Bad Service
